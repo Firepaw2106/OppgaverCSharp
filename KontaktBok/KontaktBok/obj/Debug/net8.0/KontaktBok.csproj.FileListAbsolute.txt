@@ -1,0 +1,14 @@
+C:\Users\Therese\source\repos\KontaktBok\KontaktBok\obj\Debug\net8.0\KontaktBok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Therese\source\repos\KontaktBok\KontaktBok\obj\Debug\net8.0\KontaktBok.AssemblyInfoInputs.cache
+C:\Users\Therese\source\repos\KontaktBok\KontaktBok\obj\Debug\net8.0\KontaktBok.AssemblyInfo.cs
+C:\Users\Therese\source\repos\KontaktBok\KontaktBok\obj\Debug\net8.0\KontaktBok.csproj.CoreCompileInputs.cache
+C:\Users\Therese\source\repos\KontaktBok\KontaktBok\bin\Debug\net8.0\KontaktBok.exe
+C:\Users\Therese\source\repos\KontaktBok\KontaktBok\bin\Debug\net8.0\KontaktBok.deps.json
+C:\Users\Therese\source\repos\KontaktBok\KontaktBok\bin\Debug\net8.0\KontaktBok.runtimeconfig.json
+C:\Users\Therese\source\repos\KontaktBok\KontaktBok\bin\Debug\net8.0\KontaktBok.dll
+C:\Users\Therese\source\repos\KontaktBok\KontaktBok\bin\Debug\net8.0\KontaktBok.pdb
+C:\Users\Therese\source\repos\KontaktBok\KontaktBok\obj\Debug\net8.0\KontaktBok.dll
+C:\Users\Therese\source\repos\KontaktBok\KontaktBok\obj\Debug\net8.0\refint\KontaktBok.dll
+C:\Users\Therese\source\repos\KontaktBok\KontaktBok\obj\Debug\net8.0\KontaktBok.pdb
+C:\Users\Therese\source\repos\KontaktBok\KontaktBok\obj\Debug\net8.0\KontaktBok.genruntimeconfig.cache
+C:\Users\Therese\source\repos\KontaktBok\KontaktBok\obj\Debug\net8.0\ref\KontaktBok.dll

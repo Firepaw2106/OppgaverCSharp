@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Therese\\source\\repos\\KontaktBok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C6E5B1-4F4D-42D4-B23A-52E12F8BA5CD}|KontaktBok\\KontaktBok.csproj|c:\\users\\therese\\source\\repos\\kontaktbok\\kontaktbok\\kontaktlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C6E5B1-4F4D-42D4-B23A-52E12F8BA5CD}|KontaktBok\\KontaktBok.csproj|solutionrelative:kontaktbok\\kontaktlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C6E5B1-4F4D-42D4-B23A-52E12F8BA5CD}|KontaktBok\\KontaktBok.csproj|c:\\users\\therese\\source\\repos\\kontaktbok\\kontaktbok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C6E5B1-4F4D-42D4-B23A-52E12F8BA5CD}|KontaktBok\\KontaktBok.csproj|solutionrelative:kontaktbok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C6E5B1-4F4D-42D4-B23A-52E12F8BA5CD}|KontaktBok\\KontaktBok.csproj|c:\\users\\therese\\source\\repos\\kontaktbok\\kontaktbok\\kontaktinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C6E5B1-4F4D-42D4-B23A-52E12F8BA5CD}|KontaktBok\\KontaktBok.csproj|solutionrelative:kontaktbok\\kontaktinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KontaktList.cs",
+              "DocumentMoniker": "C:\\Users\\Therese\\source\\repos\\KontaktBok\\KontaktBok\\KontaktList.cs",
+              "RelativeDocumentMoniker": "KontaktBok\\KontaktList.cs",
+              "ToolTip": "C:\\Users\\Therese\\source\\repos\\KontaktBok\\KontaktBok\\KontaktList.cs",
+              "RelativeToolTip": "KontaktBok\\KontaktList.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:53:15.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KontaktInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Therese\\source\\repos\\KontaktBok\\KontaktBok\\KontaktInfo.cs",
+              "RelativeDocumentMoniker": "KontaktBok\\KontaktInfo.cs",
+              "ToolTip": "C:\\Users\\Therese\\source\\repos\\KontaktBok\\KontaktBok\\KontaktInfo.cs",
+              "RelativeToolTip": "KontaktBok\\KontaktInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:26:27.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Therese\\source\\repos\\KontaktBok\\KontaktBok\\Program.cs",
+              "RelativeDocumentMoniker": "KontaktBok\\Program.cs",
+              "ToolTip": "C:\\Users\\Therese\\source\\repos\\KontaktBok\\KontaktBok\\Program.cs",
+              "RelativeToolTip": "KontaktBok\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwEAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:15:15.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
